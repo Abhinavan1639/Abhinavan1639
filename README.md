@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science enthusiast having 1.5+ years of working experience & Extensive knowledge in Data Analytics and Statistics.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
 <img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://twitter.com/abhinavan16015" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavan16015?logo=twitter&style=for-the-badge" alt="abhinavan16015" /></a> </p>
+
 
 - 🔭 I’m currently working on **Predict-credit-risk-using-german-credit-report**
 
