@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Predict-credit-risk-using-german-credit-report**
+- 🔭 I’m currently working on **PowerBI**
 
 - 🌱 I’m currently learning **TensorFlow, Scikit-Learn**
 
