@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinavan Sarikonda</h1>
-<h3 align="center">A Data Science enthusiast having 1.5+ years of working experience & Extensive knowledge in Data Analytics and Statistics.</h3>
+<h3 align="center">Hi! 👋, I'm a Data Science enthusiast having extensive knowledge in Data Analytics and Statistics.
+
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
 <img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
